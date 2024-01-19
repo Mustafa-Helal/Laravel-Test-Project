@@ -22,8 +22,7 @@ This project is a Laravel-based backend application developed for a job applicat
 ## Installation
 
 1. Clone the repository.
-   ```bash
- git clone https://github.com/YourUsername/Laravel-Test-Project.git
+   ```bash git clone https://github.com/YourUsername/Laravel-Test-Project.git
  
 1- Install dependencies.
         composer install
